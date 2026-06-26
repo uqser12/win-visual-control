@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 WorkBuddy User
+Copyright (c) 2026 uqser12
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,51 @@ SOFTWARE.
 
 ---
 
-⚠️ 免责声明（Disclaimer）:
-本软件仅供学习和技术参考使用，不得用于任何商业目的或非法用途。
-使用本软件即表示您同意自行承担所有风险和责任。
-作者不对使用本软件产生的任何直接或间接损失负责。
+## ⚠️ 免责声明（Disclaimer）
+
+**本软件仅供学习和技术参考使用，不得用于任何商业目的或非法用途。**
+
+- 本软件按"原样"提供，作者不对使用本软件产生的任何直接或间接损失负责
+- 使用本软件进行桌面自动化操作时，使用者必须确保遵守相关软件的服务条款
+- 禁止使用本软件进行任何违反法律法规、侵犯他人权益的行为
+- 使用本软件即表示您同意自行承担所有风险和责任
+
+> **Disclaimer**: This software is for learning and technical reference only. 
+> It is provided "as is" without warranty. Users are solely responsible for any 
+> consequences of using this software.
+
+---
+
+## 使用限制 / Usage Restrictions
+
+**禁止使用本软件进行以下行为：**
+
+1. ❌ 未经授权的自动化访问或数据抓取
+2. ❌ 违反任何软件服务条款的操作（如微信、浏览器等）
+3. ❌ 任何违法、侵权或损害他人权益的行为
+4. ❌ 商业用途（除非获得书面授权）
+
+**使用者需自行确保遵守相关法律法规及各软件的服务条款。**
+
+> **Restriction**: Users must comply with all applicable laws and software terms of service. 
+> The author is not responsible for misuse of this software.
+
+---
+
+## 第三方许可证声明 / Third-Party Licenses
+
+本项目的运行依赖以下开源软件，它们遵循各自的许可证：
+
+| 依赖库 | 许可证 | 用途 |
+|--------|--------|------|
+| **Tesseract OCR** | Apache License 2.0 | OCR 文字识别引擎 |
+| **OpenCV** | Apache License 2.0 | 图像模板匹配 |
+| **pytesseract** | Apache License 2.0 | Python Tesseract 封装 |
+| **PyAutoGUI** | BSD License | 鼠标键盘自动化 |
+| **pywin32** | PSF License | Windows API 调用 |
+
+详细许可证文本可在各项目的官方仓库中查看。
+
+本项目中使用的第三方应用图标（如微信、Chrome 等）仅用于教育目的，版权归各自所有者所有。
+
+---
