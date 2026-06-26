@@ -321,5 +321,5 @@ A: 使用 `offset` 参数微调，如 `vc.click_on_text("确定", offset=(10, 5)
 ---
 
 ## 作者
+uqser12
 
-由 WorkBuddy AI 自动生成，基于 PyAutoGUI + OpenCV + Tesseract 构建。
